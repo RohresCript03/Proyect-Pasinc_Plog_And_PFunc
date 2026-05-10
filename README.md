@@ -10,8 +10,8 @@ Servicio web que expone un motor de inferencia simbólica (Prolog) mediante una 
 ## Instalación local
 
 ```bash
-git clone https://github.com/<tu-usuario>/inference-engine.git
-cd inference-engine
+git clone https://github.com/RohresCript03/Proyecto-Programacion-asincrona-programacion-logica-y-funcional.git
+cd Proyecto-Programacion-asincrona-programacion-logica-y-funcional
 npm install
 ```
 
