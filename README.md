@@ -7,11 +7,13 @@ Servicio web que expone un motor de inferencia simbólica (Prolog) mediante una 
 - Node.js >= 18
 - npm >= 9
 
-## Instalación local
+## Instalación local 
+### Pasos para VS Code
 
 ```bash
 git clone https://github.com/RohresCript03/Proyecto-Programacion-asincrona-programacion-logica-y-funcional.git
 cd Proyecto-Programacion-asincrona-programacion-logica-y-funcional
+(code -r .) "Desde VS"
 npm install
 ```
 
