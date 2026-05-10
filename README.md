@@ -11,7 +11,7 @@ Servicio web que expone un motor de inferencia simbólica (Prolog) mediante una 
 ### Pasos para VS Code
 
 ```bash
-git clone https://github.com/RohresCript03/Proyecto-Programacion-asincrona-programacion-logica-y-funcional.git
+git clone https://github.com/RohresCript03/Proyect-Pasinc_Plog_And_PFunc.git
 cd Proyecto-Programacion-asincrona-programacion-logica-y-funcional
 (code -r .) "Desde VS"
 npm install
